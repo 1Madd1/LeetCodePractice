@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27415bb5-3d2e-4db5-aadb-d50678e448fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -61,7 +56,7 @@
       <module name="LeetCodePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.roman_to_integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,7 +88,20 @@
       <updated>1743094912701</updated>
       <workItem from="1743094913817" duration="5895000" />
       <workItem from="1743262054971" duration="5749000" />
-      <workItem from="1743346885726" duration="6044000" />
+      <workItem from="1743346885726" duration="6812000" />
+      <workItem from="1743452571893" duration="2976000" />
+      <workItem from="1743601787245" duration="256000" />
+      <workItem from="1743625569117" duration="3236000" />
+      <workItem from="1743628941590" duration="2965000" />
+      <workItem from="1743952669908" duration="5315000" />
+      <workItem from="1743976447456" duration="179000" />
+      <workItem from="1744113120561" duration="67000" />
+      <workItem from="1744481363000" duration="1243000" />
+      <workItem from="1744902840321" duration="322000" />
+      <workItem from="1744903190469" duration="3812000" />
+      <workItem from="1744997086380" duration="1797000" />
+      <workItem from="1745072190767" duration="119000" />
+      <workItem from="1745266137847" duration="2678000" />
     </task>
     <servers />
   </component>
