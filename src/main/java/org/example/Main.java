@@ -1,6 +1,11 @@
 package org.example;
 
+import org.example.LinkedListSubSumNotZero.LinkedListSubSumNotZero;
 import org.example.check_palindrome_for_input.IsIntPalindrome;
+import org.example.rotate_k_elements.RotateKElements;
+
+import java.util.LinkedList;
+import java.util.UUID;
 
 public class Main {
 
@@ -29,5 +34,23 @@ public class Main {
 //        IsIntPalindrome isIntPalindrome = new IsIntPalindrome();
 //        System.out.println(isIntPalindrome.isPalindrome(1000021));
 
+//        LinkedList<Integer> list = new LinkedList<>();
+//        LinkedListSubSumNotZero lls = new LinkedListSubSumNotZero();
+//        list.addFirst(6);
+//        list.addFirst(-6);
+//        list.addFirst(5);
+//        list.addFirst(-7);
+//        list.addFirst(4);
+//        list.addFirst(3);
+//        System.out.println(lls.linkedListWithoutSubSumZero(list));
+
+//        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+//        RotateKElements rotate = new RotateKElements();
+//        arr = rotate.getRotatedIntArray(arr, 5);
+//        for (int i = 0; i < arr.length; i++) {
+//            System.out.print(arr[i] + " ");
+//        }
+        Object object = UUID.randomUUID();
+        System.out.println(object.getClass() == UUID.class);
     }
 }

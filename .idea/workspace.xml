@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27415bb5-3d2e-4db5-aadb-d50678e448fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/username_validation/UsernameValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -47,6 +48,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -102,6 +106,18 @@
       <workItem from="1744997086380" duration="1797000" />
       <workItem from="1745072190767" duration="119000" />
       <workItem from="1745266137847" duration="2678000" />
+      <workItem from="1745268967965" duration="77000" />
+      <workItem from="1745354458127" duration="2444000" />
+      <workItem from="1745422128444" duration="8000" />
+      <workItem from="1745608130682" duration="1184000" />
+      <workItem from="1745777473218" duration="1959000" />
+      <workItem from="1746638915040" duration="4502000" />
+      <workItem from="1746968529636" duration="12000" />
+      <workItem from="1746973836550" duration="5744000" />
+      <workItem from="1747055769165" duration="7000" />
+      <workItem from="1756062978310" duration="2221000" />
+      <workItem from="1757158859047" duration="736000" />
+      <workItem from="1759084662255" duration="519000" />
     </task>
     <servers />
   </component>
